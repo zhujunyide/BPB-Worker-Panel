@@ -4328,7 +4328,7 @@ var worker_default = {
               }
             });
           default:
-            url.hostname = "www.speedest.net";
+            url.hostname = "www.speedgz12.net";
             url.protocol = "https:";
             request = new Request(url, request);
             return await fetch(request);
